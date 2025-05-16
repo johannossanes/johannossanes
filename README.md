@@ -3,9 +3,9 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🧙🏽‍♂️ Sobre mim
 
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas no UNISenac-RS
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas no UNISenac-RS 3º Semestre (e contando 🚀)
 - 🧠 Atualmente aprendendo mais sobre  Python para Data Science, Express, SQL e TypeScript.
 - 🛠️ Experiência com **MySQL (procedures, triggers, transações)** e **Prisma ORM**
 - 💬 No momento estou aprendendo a trabalhar com APIs REST, banco de dados e lógica de negócio robusta. 
