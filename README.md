@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World!</h1>
-<p align="center">Desenvolvedor backend em crescimento! Apaixonado por solucionar problemas, escrever codigos e desenvolver jogos nas horas vagas. 🤓</p>
+<p align="center">Desenvolvedor em crescimento! Apaixonado por solucionar problemas, escrever codigos e desenvolver jogos nas horas vagas. 🤓</p>
 
 ---
 
